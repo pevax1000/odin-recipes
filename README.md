@@ -1,1 +1,1 @@
-# odin-recipes
+This is a recipe website as part of odin practice
